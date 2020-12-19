@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="https://formspree.io/xdoeonlo"
+                          action="https://formspree.io/f/myybbgqn"
                           method="POST"
                           className="contactForm"
                         >
@@ -117,20 +117,20 @@ class Contact extends React.Component {
                       </div>
                       <div className="socials">
                         <ul>
-                          <li>
+                         {/*  <li>
                             <a
-                              href=""
+                              href="https://github.com/andsemenov"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              <span className="ico-circle">
-                                <i className="ion-social-codepen"></i>
+                               <span className="ico-circle">
+                               <i className="ion-social-codepen"></i>
                               </span>
                             </a>
-                          </li>
+                          </li> */}
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/andsemenov"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +141,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/andrei-semenov-14192b1ba"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

@@ -1,13 +1,13 @@
 import React from "react";
-import myImage from "../img/myImage.png";
+
 
 class About extends React.Component {
   constructor() {
     super();
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
+        { id: "HTML5_skill", content: "HTML5", porcentage: "70%", value: "70" },
+        { id: "CSS3_skill", content: "CSS3", porcentage: "50%", value: "50" },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
