@@ -1,13 +1,13 @@
 import React from "react";
-import { Button, Grid, Icon } from "semantic-ui-react";
+import { Grid, Icon } from "semantic-ui-react";
 
 //import stock
 import stock from "../img/image1.jpg";
-import stock1 from "../img/image2.jpg";
+/* import stock1 from "../img/image2.jpg";
 import stock2 from "../img/image3.jpg";
 import stock3 from "../img/image4.jpg";
 import stock4 from "../img/image5.jpg";
-import stock5 from "../img/image6.jpg";
+import stock5 from "../img/image6.jpg"; */
 
 class Portfolio extends React.Component {
   render() {
@@ -35,10 +35,10 @@ class Portfolio extends React.Component {
                 <div className="work-content">
                   <div className="row">
                     <div className="col-sm-8">
-                      <h2 className="w-title">Lorem Ipsum</h2>
+                      <h2 className="w-title">Diversihire platform</h2>
                       <div className="w-more">
                         <span className="w-ctegory">
-                          HTML5 CSS3 Bootstrap ReactJS
+                          PostgreSQL ExpressJS ReactJS NodeJS
                         </span>
                       </div>
                     </div>

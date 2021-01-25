@@ -710,8 +710,8 @@ PORTFOLIO
 }
 
 .work-box:hover img {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .work-img {
