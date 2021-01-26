@@ -52,7 +52,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://github.com/CodeYourFuture/scot-diversihire"
+                          href="https://github.com/andsemenov/scot-diversihire"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -69,7 +69,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://scot-diversihire.herokuapp.com/"
+                          href="https://diversihire.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -108,7 +108,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://github.com/CodeYourFuture/scot-diversihire"
+                          href="https://github.com/andsemenov/scot-diversihire"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -125,7 +125,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://scot-diversihire.herokuapp.com/"
+                          href="https://diversihire.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -164,7 +164,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://github.com/CodeYourFuture/scot-diversihire"
+                          href="https://github.com/andsemenov/scot-diversihire"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -181,7 +181,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://scot-diversihire.herokuapp.com/"
+                          href="https://diversihire.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -220,7 +220,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://github.com/CodeYourFuture/scot-diversihire"
+                          href="https://github.com/andsemenov/scot-diversihire"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -237,7 +237,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://scot-diversihire.herokuapp.com/"
+                          href="https://diversihire.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -276,7 +276,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://github.com/CodeYourFuture/scot-diversihire"
+                          href="https://github.com/andsemenov/scot-diversihire"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -293,7 +293,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://scot-diversihire.herokuapp.com/"
+                          href="https://diversihire.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -332,7 +332,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://github.com/CodeYourFuture/scot-diversihire"
+                          href="https://github.com/andsemenov/scot-diversihire"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -349,7 +349,7 @@ class Portfolio extends React.Component {
                         width={5}
                       >
                         <a
-                          href="https://scot-diversihire.herokuapp.com/"
+                          href="https://diversihire.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
