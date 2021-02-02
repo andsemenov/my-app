@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.0f229e21.chunk.css",
-    "main.js": "/my-app/static/js/main.de615f00.chunk.js",
-    "main.js.map": "/my-app/static/js/main.de615f00.chunk.js.map",
+    "main.js": "/my-app/static/js/main.5c5a3bea.chunk.js",
+    "main.js.map": "/my-app/static/js/main.5c5a3bea.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.922ac3ad.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.922ac3ad.js.map",
     "static/css/2.1f554796.chunk.css": "/my-app/static/css/2.1f554796.chunk.css",
-    "static/js/2.c23bb485.chunk.js": "/my-app/static/js/2.c23bb485.chunk.js",
-    "static/js/2.c23bb485.chunk.js.map": "/my-app/static/js/2.c23bb485.chunk.js.map",
+    "static/js/2.ef8ab0dd.chunk.js": "/my-app/static/js/2.ef8ab0dd.chunk.js",
+    "static/js/2.ef8ab0dd.chunk.js.map": "/my-app/static/js/2.ef8ab0dd.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.3cface8bf75d633da3672c4bfa617933.js": "/my-app/precache-manifest.3cface8bf75d633da3672c4bfa617933.js",
+    "precache-manifest.1475e3b8848f5442b5d6609978a5008b.js": "/my-app/precache-manifest.1475e3b8848f5442b5d6609978a5008b.js",
     "service-worker.js": "/my-app/service-worker.js",
     "static/css/2.1f554796.chunk.css.map": "/my-app/static/css/2.1f554796.chunk.css.map",
     "static/css/main.0f229e21.chunk.css.map": "/my-app/static/css/main.0f229e21.chunk.css.map",
-    "static/js/2.c23bb485.chunk.js.LICENSE.txt": "/my-app/static/js/2.c23bb485.chunk.js.LICENSE.txt",
+    "static/js/2.ef8ab0dd.chunk.js.LICENSE.txt": "/my-app/static/js/2.ef8ab0dd.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/my-app/static/media/outline-icons.ef60a4f6.woff",
     "static/media/earth.jpg": "/my-app/static/media/earth.67af05e1.jpg",
     "static/media/font-awesome.css": "/my-app/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/image1.jpg": "/my-app/static/media/image1.9a3dfe86.jpg",
+    "static/media/image2.jpg": "/my-app/static/media/image2.82c37520.jpg",
+    "static/media/image3.jpg": "/my-app/static/media/image3.a122b6b6.jpg",
+    "static/media/image4.jpg": "/my-app/static/media/image4.c4e0b857.jpg",
+    "static/media/image5.jpg": "/my-app/static/media/image5.b658e612.jpg",
     "static/media/ionicons.css": "/my-app/static/media/ionicons.621bd386.svg",
     "static/media/male.png": "/my-app/static/media/male.596ece33.png",
     "static/media/male1.png": "/my-app/static/media/male1.596ece33.png"
@@ -25,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.922ac3ad.js",
     "static/css/2.1f554796.chunk.css",
-    "static/js/2.c23bb485.chunk.js",
+    "static/js/2.ef8ab0dd.chunk.js",
     "static/css/main.0f229e21.chunk.css",
-    "static/js/main.de615f00.chunk.js"
+    "static/js/main.5c5a3bea.chunk.js"
   ]
 }
