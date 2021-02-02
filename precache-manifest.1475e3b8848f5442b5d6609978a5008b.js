@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70a4b98daed8a7e03e2a07d42af59007",
+    "revision": "e5e805734a61a56c6787ff8b51e0f4ff",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "0f67e57623cb3bcbd22a",
+    "revision": "7c792a649ee9c5004531",
     "url": "/my-app/static/css/2.1f554796.chunk.css"
   },
   {
-    "revision": "45a9b889ec69b952bc1d",
+    "revision": "b6cf94f759730333c089",
     "url": "/my-app/static/css/main.0f229e21.chunk.css"
   },
   {
-    "revision": "0f67e57623cb3bcbd22a",
-    "url": "/my-app/static/js/2.c23bb485.chunk.js"
+    "revision": "7c792a649ee9c5004531",
+    "url": "/my-app/static/js/2.ef8ab0dd.chunk.js"
   },
   {
     "revision": "e9875d7c1187f4f0558e7fbac051f48d",
-    "url": "/my-app/static/js/2.c23bb485.chunk.js.LICENSE.txt"
+    "url": "/my-app/static/js/2.ef8ab0dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45a9b889ec69b952bc1d",
-    "url": "/my-app/static/js/main.de615f00.chunk.js"
+    "revision": "b6cf94f759730333c089",
+    "url": "/my-app/static/js/main.5c5a3bea.chunk.js"
   },
   {
     "revision": "4f282b9659b4936d5d46",
@@ -96,8 +96,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app/static/media/icons.faff9214.woff"
   },
   {
+    "revision": "0b37f43494ce5a35f3e1575612048750",
+    "url": "/my-app/static/media/image1.0b37f434.jpg"
+  },
+  {
+    "revision": "28470933ba170d7cd8d5495969722a5d",
+    "url": "/my-app/static/media/image1.28470933.jpg"
+  },
+  {
+    "revision": "8de6195d8faafe31ac0a842eb0cbe1a9",
+    "url": "/my-app/static/media/image1.8de6195d.jpg"
+  },
+  {
     "revision": "9a3dfe869160fe6c475f879eefe9f7ac",
     "url": "/my-app/static/media/image1.9a3dfe86.jpg"
+  },
+  {
+    "revision": "82c37520e179c477e47b9de7bcfb7665",
+    "url": "/my-app/static/media/image2.82c37520.jpg"
+  },
+  {
+    "revision": "a122b6b66536f7ddae954cfc1e0c4242",
+    "url": "/my-app/static/media/image3.a122b6b6.jpg"
+  },
+  {
+    "revision": "c4e0b857fc4af9b63720a6890a949c75",
+    "url": "/my-app/static/media/image4.c4e0b857.jpg"
+  },
+  {
+    "revision": "b658e6125baccd800f6f7e0f364220ea",
+    "url": "/my-app/static/media/image5.b658e612.jpg"
   },
   {
     "revision": "05acfdb568b3df49ad31355b19495d4a",
