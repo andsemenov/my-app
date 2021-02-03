@@ -17,9 +17,9 @@ const allProjects = [
       /\.(png|jpe?g|svg)$/
     ),
     description: "There will be project -2",
-    technologies: "There will be tech for project-2",
-    githubLink: "http://gitlinkproject-2",
-    liveSiteLink: "https://project-222.com/",
+    technologies: "JavaScript HTML CSS",
+    githubLink: "https://github.com/andsemenov/tv-show-dom-project",
+    liveSiteLink: "https://cyf-andsemenov-tv.netlify.app/",
   },
   {
     contextOfImages: require.context(
