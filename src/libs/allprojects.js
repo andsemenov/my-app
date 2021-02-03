@@ -6,7 +6,7 @@ const allProjects = [
       /\.(png|jpe?g|svg)$/
     ),
     description: "Diversihire platform",
-    technologies: "HTML5 CSS3 Bootstrap ReactJS",
+    technologies: "PostgreSQL Express React Node Html CSS Semantic UI React",
     githubLink: "https://github.com/andsemenov/scot-diversihire",
     liveSiteLink: "https://diversihire.herokuapp.com/",
   },
