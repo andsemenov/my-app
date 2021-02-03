@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.0f229e21.chunk.css",
-    "main.js": "/my-app/static/js/main.68ca04d5.chunk.js",
-    "main.js.map": "/my-app/static/js/main.68ca04d5.chunk.js.map",
+    "main.js": "/my-app/static/js/main.e390f9f5.chunk.js",
+    "main.js.map": "/my-app/static/js/main.e390f9f5.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.922ac3ad.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.922ac3ad.js.map",
     "static/css/2.1f554796.chunk.css": "/my-app/static/css/2.1f554796.chunk.css",
-    "static/js/2.aec1bb6e.chunk.js": "/my-app/static/js/2.aec1bb6e.chunk.js",
-    "static/js/2.aec1bb6e.chunk.js.map": "/my-app/static/js/2.aec1bb6e.chunk.js.map",
+    "static/js/2.44fd92ab.chunk.js": "/my-app/static/js/2.44fd92ab.chunk.js",
+    "static/js/2.44fd92ab.chunk.js.map": "/my-app/static/js/2.44fd92ab.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.2b56c5510ec02798a66604d2ca5a5041.js": "/my-app/precache-manifest.2b56c5510ec02798a66604d2ca5a5041.js",
+    "precache-manifest.a2daa63d150c19028d8dd3fd49a66f1b.js": "/my-app/precache-manifest.a2daa63d150c19028d8dd3fd49a66f1b.js",
     "service-worker.js": "/my-app/service-worker.js",
     "static/css/2.1f554796.chunk.css.map": "/my-app/static/css/2.1f554796.chunk.css.map",
     "static/css/main.0f229e21.chunk.css.map": "/my-app/static/css/main.0f229e21.chunk.css.map",
-    "static/js/2.aec1bb6e.chunk.js.LICENSE.txt": "/my-app/static/js/2.aec1bb6e.chunk.js.LICENSE.txt",
+    "static/js/2.44fd92ab.chunk.js.LICENSE.txt": "/my-app/static/js/2.44fd92ab.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/my-app/static/media/outline-icons.ef60a4f6.woff",
     "static/media/earth.jpg": "/my-app/static/media/earth.67af05e1.jpg",
     "static/media/font-awesome.css": "/my-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.png": "/my-app/static/media/image1.24820d5a.png",
     "static/media/image1.jpg": "/my-app/static/media/image1.9a3dfe86.jpg",
+    "static/media/image2.png": "/my-app/static/media/image2.77058f67.png",
     "static/media/image2.jpg": "/my-app/static/media/image2.82c37520.jpg",
     "static/media/image3.jpg": "/my-app/static/media/image3.a122b6b6.jpg",
     "static/media/image4.jpg": "/my-app/static/media/image4.c4e0b857.jpg",
@@ -29,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.922ac3ad.js",
     "static/css/2.1f554796.chunk.css",
-    "static/js/2.aec1bb6e.chunk.js",
+    "static/js/2.44fd92ab.chunk.js",
     "static/css/main.0f229e21.chunk.css",
-    "static/js/main.68ca04d5.chunk.js"
+    "static/js/main.e390f9f5.chunk.js"
   ]
 }
