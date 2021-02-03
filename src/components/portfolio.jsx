@@ -1,5 +1,6 @@
 import React from "react";
 import { Grid, Icon } from "semantic-ui-react";
+import allProjects from "../libs/allprojects.js";
 
 const importAll = (r) => {
   const images = r.keys().map(r);
@@ -7,19 +8,6 @@ const importAll = (r) => {
 };
 
 const Portfolio = () => {
-  const listOfImages1 = importAll(
-    require.context("../img/project1/", false, /\.(png|jpe?g|svg)$/)
-  );
-  const listOfImages2 = importAll(
-    require.context("../img/project2/", false, /\.(png|jpe?g|svg)$/)
-  );
-  const listOfImages3 = importAll(
-    require.context("../img/project3/", false, /\.(png|jpe?g|svg)$/)
-  );
-  const listOfImages4 = importAll(
-    require.context("../img/project4/", false, /\.(png|jpe?g|svg)$/)
-  );
-
   return (
     <section id="work" className="portfolio-mf sect-pt4 route">
       <div className="container">
@@ -32,80 +20,88 @@ const Portfolio = () => {
             </div>
           </div>
         </div>
-
         <div className="row">
-          {/*   /// */}
-          <div className="col-md-4">
-            <div className="work-box">
-              <a href={listOfImages1[0]} data-lightbox="gallery-vmarine1">
-                <div className="work-img">
-                  <img src={listOfImages1[0]} alt="" className="img-fluid" />
-                </div>
-                <div className="work-content">
-                  <div className="row">
-                    <div className="col-sm-8">
-                      <h2 className="w-title">Lorem Ipsum</h2>
-                      <div className="w-more">
-                        <span className="w-ctegory">
-                          HTML5 CSS3 Bootstrap ReactJS
-                        </span>
+          {allProjects.map((project, index) => (
+            <div key={"div1" + index} className="col-md-4">
+              <div className="work-box">
+                <a
+                  href={importAll(project.contextOfImages)[0]}
+                  data-lightbox={"gallery-vmarine" + index}
+                >
+                  <div className="work-img">
+                    <img
+                      src={importAll(project.contextOfImages)[0]}
+                      alt="Main_picture"
+                      className="img-fluid"
+                    />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-8">
+                        <h2 className="w-title">{project.description}</h2>
+                        <div className="w-more">
+                          <span className="w-ctegory">
+                            {project.technologies}
+                          </span>
+                        </div>
                       </div>
-                    </div>
-                    <div className="col-sm-4">
-                      <div className="w-like">
-                        <span className="ion-ios-plus-outline"></span>
+                      <div className="col-sm-4">
+                        <div className="w-like">
+                          <span className="ion-ios-plus-outline"></span>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              </a>
-              {listOfImages1.slice(1).map((image, index) => (
-                <a
-                  href={image}
-                  key={index}
-                  data-lightbox="gallery-vmarine1"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
                 </a>
-              ))}
-              <Grid centered>
-                <Grid.Row columns={2}>
-                  <Grid.Column
-                    textAlign="center"
-                    verticalAlign="middle"
-                    className="links"
-                    width={5}
-                  >
+                {importAll(project.contextOfImages)
+                  .slice(1)
+                  .map((image, indexList) => (
                     <a
-                      href="https://github.com/andsemenov/scot-diversihire"
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href={image}
+                      key={indexList}
+                      data-lightbox={"gallery-vmarine" + index}
+                      style={{ display: "none" }}
                     >
-                      <Icon name="code" />
-                      <p>Code.</p>
+                      jsx-a11y/anchor-has-content warning
                     </a>
-                  </Grid.Column>
-                  <Grid.Column
-                    textAlign="center"
-                    verticalAlign="middle"
-                    className="links"
-                    width={5}
-                  >
-                    <a
-                      href="https://diversihire.herokuapp.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
+                  ))}
+                <Grid centered>
+                  <Grid.Row columns={2}>
+                    <Grid.Column
+                      textAlign="center"
+                      verticalAlign="middle"
+                      className="links"
+                      width={5}
                     >
-                      <Icon name="desktop" />
-                      <p>Live site.</p>
-                    </a>
-                  </Grid.Column>
-                </Grid.Row>
-              </Grid>
+                      <a
+                        href={project.githubLink}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <Icon name="code" />
+                        <p>Code.</p>
+                      </a>
+                    </Grid.Column>
+                    <Grid.Column
+                      textAlign="center"
+                      verticalAlign="middle"
+                      className="links"
+                      width={5}
+                    >
+                      <a
+                        href={project.liveSiteLink}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <Icon name="desktop" />
+                        <p>Live site.</p>
+                      </a>
+                    </Grid.Column>
+                  </Grid.Row>
+                </Grid>
+              </div>
             </div>
-          </div>
-          {/* //// */}
+          ))}
         </div>
       </div>
     </section>
