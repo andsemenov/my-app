@@ -753,7 +753,19 @@ PORTFOLIO
 .w-title {
   font-size: 1.2rem;
 }
+.col-md-4 {
+  display: flex;
+}
 
+.work-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ui.centered.grid {
+  margin-bottom: 1rem;
+}
 /*
 TESTIMONIALS
 */
