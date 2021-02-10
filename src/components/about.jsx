@@ -54,7 +54,7 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "During intensive nine months of training with the CodeYourFuture with over 600 hours of studying gained Full-stack tech skills: HTML and CSS, JavaScript, React js, Node.js, PostgreSQL, Testing, asynchronous programming; Employ-ability skills: Teamwork, Adaptability, Problem-solving, Communication and Continuous Learning Skills Project delivery experience Within a team of 5 developers created a Full Stack app Diversihire  – the hiring platform of new type on base of PERN stack.",
+            "During intensive nine months of training with the CodeYourFuture with over 800 hours of studying gained Full-stack tech skills: HTML and CSS, JavaScript, React js, Node.js, PostgreSQL, Testing, asynchronous programming; Employ-ability skills: Teamwork, Adaptability, Problem-solving, Communication and Continuous Learning Skills Project delivery experience Within a team of 5 developers created a Full Stack app Diversihire  – the hiring platform of new type on base of PERN stack.",
         },
         {
           id: "third-p-about",
