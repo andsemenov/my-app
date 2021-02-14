@@ -27,10 +27,10 @@ const allProjects = [
       false,
       /\.(png|jpe?g|svg)$/
     ),
-    description: "There will be project -3",
-    technologies: "There will be tech for project-3",
-    githubLink: "http://gitlinkproject-3",
-    liveSiteLink: "https://project-3.com/",
+    description: "Quiz",
+    technologies: "JavaScript HTML CSS",
+    githubLink: "https://github.com/andsemenov/quiz",
+    liveSiteLink: "https://andsemenov.github.io/quiz/",
   },
 ];
 export default allProjects;
