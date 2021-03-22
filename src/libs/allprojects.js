@@ -32,5 +32,16 @@ const allProjects = [
     githubLink: "https://github.com/andsemenov/quiz",
     liveSiteLink: "https://andsemenov.github.io/quiz/",
   },
+  {
+    contextOfImages: require.context(
+      "../img/project4/",
+      false,
+      /\.(png|jpe?g|svg)$/
+    ),
+    description: "LIFE IN THE TIME EXHIBITION",
+    technologies: "JavaScript HTML CSS JQuery bootstrap",
+    githubLink: "https://github.com/Lily-La-Day/life-in-the-times/",
+    liveSiteLink: "https://lily-la-day.github.io/life-in-the-times/",
+  },
 ];
 export default allProjects;
