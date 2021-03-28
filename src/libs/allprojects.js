@@ -41,7 +41,7 @@ const allProjects = [
     description: "LIFE IN THE TIME EXHIBITION",
     technologies: "JavaScript HTML CSS JQuery bootstrap",
     githubLink: "https://github.com/Lily-La-Day/life-in-the-times/",
-    liveSiteLink: "https://lily-la-day.github.io/life-in-the-times/",
+    liveSiteLink: "https://life-in-the-time-exhibition.com/",
   },
 ];
 export default allProjects;
