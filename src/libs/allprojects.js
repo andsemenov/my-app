@@ -43,5 +43,17 @@ const allProjects = [
     githubLink: "https://github.com/Lily-La-Day/life-in-the-times/",
     liveSiteLink: "https://life-in-the-time-exhibition.com/",
   },
+  {
+    contextOfImages: require.context(
+      "../img/project5/",
+      false,
+      /\.(png|jpe?g|svg)$/
+    ),
+    description: "Quiz - Fullstack App",
+    technologies:
+      "MERN stack (MongoDB, Node/Express, React), HTML/CSS, Semantic UI React",
+    githubLink: "https://github.com/andsemenov/quiz-react-node-mongodb",
+    liveSiteLink: "https://quiz-react-node-mongodb.herokuapp.com/",
+  },
 ];
 export default allProjects;
