@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de65a0bab2c6394e48c6d00f18d4e96b",
+    "revision": "5ca3bfb9888fc2b3101ad71efabbcbe1",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "32e3466c6f19ff147011",
-    "url": "/my-app/static/css/2.1f554796.chunk.css"
+    "revision": "d9db9b5a0a0d0b8e90b0",
+    "url": "/my-app/static/css/2.de425b83.chunk.css"
   },
   {
-    "revision": "e966b7bc20a914d4bb60",
-    "url": "/my-app/static/css/main.97a0e18b.chunk.css"
+    "revision": "085fffc6ee48ba500bd5",
+    "url": "/my-app/static/css/main.9c792858.chunk.css"
   },
   {
-    "revision": "32e3466c6f19ff147011",
-    "url": "/my-app/static/js/2.34391ebd.chunk.js"
+    "revision": "d9db9b5a0a0d0b8e90b0",
+    "url": "/my-app/static/js/2.051b598d.chunk.js"
   },
   {
     "revision": "e9875d7c1187f4f0558e7fbac051f48d",
-    "url": "/my-app/static/js/2.34391ebd.chunk.js.LICENSE.txt"
+    "url": "/my-app/static/js/2.051b598d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e966b7bc20a914d4bb60",
-    "url": "/my-app/static/js/main.410b7962.chunk.js"
+    "revision": "085fffc6ee48ba500bd5",
+    "url": "/my-app/static/js/main.4a47c9a0.chunk.js"
   },
   {
     "revision": "4f282b9659b4936d5d46",
@@ -94,6 +94,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/my-app/static/media/icons.faff9214.woff"
+  },
+  {
+    "revision": "969dd1ce32d7e33f42e3d626a74814ab",
+    "url": "/my-app/static/media/image01.969dd1ce.png"
+  },
+  {
+    "revision": "decca15bea1a8af2ac1a6e44a36d5f1e",
+    "url": "/my-app/static/media/image02.decca15b.png"
+  },
+  {
+    "revision": "666057750a10ba521acf93bfef1015eb",
+    "url": "/my-app/static/media/image03.66605775.png"
+  },
+  {
+    "revision": "afb598fe4768c93fec470d0189bd4907",
+    "url": "/my-app/static/media/image04.afb598fe.png"
+  },
+  {
+    "revision": "9177e1420765ddb7d549581febffbe39",
+    "url": "/my-app/static/media/image05.9177e142.png"
+  },
+  {
+    "revision": "04950bf73fd682309d0aa855bf0a0e7a",
+    "url": "/my-app/static/media/image06.04950bf7.png"
+  },
+  {
+    "revision": "bc4b2eb5900c135d314cc8c013d80435",
+    "url": "/my-app/static/media/image07.bc4b2eb5.png"
+  },
+  {
+    "revision": "61d39988faee691c9b2ebbda1da62ff2",
+    "url": "/my-app/static/media/image08.61d39988.png"
   },
   {
     "revision": "0dd8b12e602f5260963ce7b20e94baf3",
